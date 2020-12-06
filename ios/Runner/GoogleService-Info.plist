@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>295812779531-qbr5cog8h1ccupk1smb6kkpor2p5042p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.295812779531-qbr5cog8h1ccupk1smb6kkpor2p5042p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>295812779531-ejufbq7e0vu2ghsq45rmt6nu57flf15c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxMxPDI6Cl6eq-A-_JGU2OtMnFD8-mZB4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>295812779531</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quizfireapp</string>
+	<key>PROJECT_ID</key>
+	<string>crwn-db-7a776</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crwn-db-7a776.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:295812779531:ios:e5ce0c33188180e986410e</string>
+	<key>DATABASE_URL</key>
+	<string>https://crwn-db-7a776.firebaseio.com</string>
+</dict>
+</plist>
